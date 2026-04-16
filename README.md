@@ -158,21 +158,8 @@ Update this section as needed to reflect the exact contents of this repository.
 
 ## Getting Started
 
-The exact installation and deployment process may vary depending on the repository and target environment, but the general workflow is:
+Visit the SteelDome webpage for more information on how to obtain a commercial license.
+https://steeldome.com
 
-1. Review the platform documentation and deployment prerequisites.
-2. Prepare supported hardware or virtual infrastructure.
-3. Select the desired deployment model:
-   - StratiSTOR
-   - StratiSERV
-   - HyperSERV
-   - Tiered
-   - Hyper-converged
-   - Hybrid
-4. Install or deploy the required platform components.
-5. Apply environment-specific configuration.
-6. Validate cluster, storage, networking, and service readiness.
-7. Begin provisioning workloads.
-
-For environment-specific instructions, refer to the documentation included in this repository or the broader StratiSYSTEM documentation set.
-
+Visit the SteelDome Wiki page for all documentation related to SteelDome Technologies.
+https://wiki.steeldome.com
