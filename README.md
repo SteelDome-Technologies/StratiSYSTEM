@@ -1,6 +1,6 @@
 # StratiSYSTEM OS
 
-**StratiSYSTEM™** is a unified infrastructure operating system that lets organizations run compute virtualization, storage virtualization, or both, exactly when they need them. It supports tiered, hyper-converged, and hybrid deployment models, scales from edge environments to large data centers, and runs on the hardware you choose.
+**StratiSYSTEM OS™** is a unified infrastructure operating system that lets organizations run compute virtualization, storage virtualization, or both, exactly when they need them. It supports tiered, hyper-converged, and hybrid deployment models, scales from edge environments to large data centers, and runs on the hardware you choose.
 
 *One operating system. Infinite possibilities.*
 
