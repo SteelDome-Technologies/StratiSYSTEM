@@ -44,6 +44,8 @@ It is designed for organizations that want to:
 
 At its core, StratiSYSTEM transforms standard hardware into a cohesive infrastructure platform that can be adapted to different workload types, operating models, and long-term growth strategies.
 
+<img width="3075" height="1722" alt="image" src="https://github.com/user-attachments/assets/9c06ae6a-0624-41ae-bfbe-71e9666ec771" />
+
 ---
 
 ## Why StratiSYSTEM
