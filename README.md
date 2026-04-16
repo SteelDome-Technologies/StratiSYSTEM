@@ -245,11 +245,13 @@ Official documentation is available on the SteelDome Wiki.
 
 ### Selected use case references
 
+- **HPC and Supercomputing**: https://wiki.steeldome.com/en/use-case-hpc-sc
 - **Artificial Intelligence**: https://wiki.steeldome.com/en/use-case-ai
 - **Managed Service Providers**: https://wiki.steeldome.com/en/use-case-msp
 - **Healthcare**: https://wiki.steeldome.com/en/use-case-healthcare
 - **Scientific Research**: https://wiki.steeldome.com/en/use-case-research
 - **Media and Entertainment**: https://wiki.steeldome.com/en/use-case-media
+- **Legal**: https://wiki.steeldome.com/en/use-case-legal
 
 ---
 
