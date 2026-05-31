@@ -2,15 +2,21 @@
 
 **The modern infrastructure operating system**
 
-StratiSYSTEM™ is a unified infrastructure operating system that lets organizations run compute virtualization, storage virtualization, or both from a common software foundation. It supports tiered, hyper-converged, and hybrid deployment models, runs on standard x86 hardware, and is designed to scale from compact environments to large multi-node infrastructure.
+StratiSYSTEM is a unified infrastructure operating system that gives organizations a common software foundation for compute virtualization, storage virtualization, container orchestration, and hyper-converged infrastructure.
 
-StratiSYSTEM is the software foundation behind SteelDome’s platform portfolio:
+Designed to run on standard x86 hardware, StratiSYSTEM supports tiered, hyper-converged, and hybrid deployment models. It provides the flexibility to scale from compact edge and departmental environments to large, multi-node enterprise infrastructure.
 
-- **StratiSTOR** for software-defined storage
-- **StratiSERV** for virtualization and container orchestration
-- **HyperSERV** for integrated hyper-converged infrastructure
+StratiSYSTEM is the foundation behind SteelDome’s platform portfolio:
 
-Whether the goal is to modernize virtualization, deploy scalable storage, build private cloud infrastructure, extend services to the edge, or standardize a full-stack software-defined platform, StratiSYSTEM provides a common operating layer for performance, resilience, and operational consistency.
+* **StratiSTOR** — software-defined storage
+* **StratiSERV** — virtualization and container orchestration
+* **HyperSERV** — integrated hyper-converged infrastructure
+
+Whether you are modernizing virtualization, deploying scalable storage, building private cloud infrastructure, extending services to the edge, or standardizing on a full-stack software-defined platform, StratiSYSTEM provides a consistent operating layer for performance, resilience, and operational simplicity.
+
+For platform overviews, feature deep-dives, deployment walkthroughs, and advanced use cases, visit the SteelDome Technologies YouTube channel:
+
+https://www.youtube.com/@SteelDomeTechnologies
 
 ---
 
