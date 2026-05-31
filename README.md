@@ -2,7 +2,7 @@
 
 **The Universal Infrastructure Operating System**
 
-StratiSYSTEM is a universal infrastructure operating system that gives organizations a common software foundation for compute virtualization, storage virtualization, container orchestration, networking, and full-stack infrastructure delivery.
+StratiSYSTEM is the universal infrastructure operating system that gives organizations a common software foundation for compute virtualization, storage virtualization, container orchestration, networking, and full-stack infrastructure delivery.
 
 Built to run on standard x86 hardware, StratiSYSTEM supports tiered, hyper-converged, and hybrid deployment models. It is designed to scale from compact IoT and edge environments to Tier-1 enterprise workloads, private cloud platforms, and HPC/AI rack-scale deployments.
 
