@@ -6,7 +6,7 @@ StratiSYSTEM is the universal infrastructure operating system that gives organiz
 
 Built to run on standard x86 hardware, StratiSYSTEM supports tiered, hyper-converged, and hybrid deployment models. It is designed to scale from compact IoT and edge environments to Tier-1 enterprise workloads, private cloud platforms, and HPC/AI rack-scale deployments.
 
-By integrating the core infrastructure layers into a single operating system, StratiSYSTEM helps reduce deployment time by up to 90% compared to traditional multi-vendor infrastructure stacks. Instead of separately deploying and integrating hypervisors, storage platforms, Kubernetes, networking, monitoring, and management tooling, organizations can standardize on one software foundation that delivers these capabilities through a consistent operational model.
+By integrating the core infrastructure layers into a single operating system, StratiSYSTEM helps reduce deployment time by 90% compared to traditional multi-vendor infrastructure stacks. Instead of separately deploying and integrating hypervisors, storage platforms, Kubernetes, networking, monitoring, and management tooling, organizations can standardize on one software foundation that delivers these capabilities through a consistent operational model.
 
 StratiSYSTEM is the foundation behind SteelDome’s platform portfolio:
 
