@@ -1,4 +1,4 @@
-# **StratiSYSTEM OS**
+# **StratiSYSTEM™ OS**
 
 **The Universal Infrastructure Operating System**
 
